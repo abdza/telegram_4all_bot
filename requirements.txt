@@ -1,0 +1,14 @@
+pyTelegramBotAPI
+requests
+openai
+gpt4all
+pydub
+textract
+pandas
+numpy
+yahooquery
+scikit-learn
+numerize
+chromadb
+urlextract
+tiktoken
